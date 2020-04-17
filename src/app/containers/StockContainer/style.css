@@ -1,0 +1,28 @@
+.exchangeSelect {
+    width: 65%;
+}
+
+.exchangeButton {
+    float: right;
+    width: 30%;
+}
+
+.symbolList {
+    background: #f2f2f2;
+    border: 1px solid #888;
+    float: left;
+}
+
+.symbolList div {
+    padding-left: 1px;
+}
+
+.mainDisplay {
+    margin: 2rem 0;
+}
+
+.symbolData {
+    display: inline-block;
+    margin-left: 1rem;
+    width: 50%;
+}
